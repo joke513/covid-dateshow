@@ -1,4 +1,19 @@
-# covid-dateshow
-基于vue的疫情动态数据实时展示
+# vue-covid19
 
-这是我自学前端时用vue写的一个小项目，基本是跟着视频敲的，用于熟悉vue操作
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
